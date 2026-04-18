@@ -1,8 +1,9 @@
-<h1 align="center">Nguyen Van Minh Tam</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:60a5fa&text=Nguyen%20Van%20Minh%20Tam&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Backend-Focused%20Fullstack%20Builder&descAlignY=58&animation=fadeIn" alt="Animated header banner" />
+</p>
 
 <p align="center">
-  <strong>Backend-Focused Fullstack Builder</strong><br />
-  Strong in reasoning, problem-solving, and delivering results beyond expectations.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Strong+in+reasoning+and+problem-solving;Building+with+ASP.NET+on+the+road+to+fullstack;Exploring+React+and+DevSecOps+step+by+step" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
@@ -68,6 +69,14 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvmtamm/nvmtamm/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvmtamm/nvmtamm/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nvmtamm/nvmtamm/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ## <img src="./assets/icons/connect.svg" width="18" alt="" /> Connect
