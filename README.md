@@ -56,6 +56,7 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 **Core Backend**
 
 <p>
+  <img src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
   <img src="https://img.shields.io/badge/ASP.NET-1d4ed8?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
   <img src="https://img.shields.io/badge/C%23-334155?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp badge" />
   <img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" alt="Java badge" />
@@ -74,7 +75,6 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 **Tools and Workflow**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub badge" />
 </p>
 
@@ -98,16 +98,16 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nvmtamm&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github&card_width=495" alt="GitHub activity stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nvmtamm&show_icons=true&hide_border=true&rank_icon=github&card_width=495&bg_color=0,f8fafc,f1f5f9&title_color=0f172a&text_color=475569&icon_color=2563eb" alt="GitHub activity stats" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvmtamm&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8&card_width=495&size_weight=0.5&count_weight=0.5&custom_title=Language%20Distribution" alt="Language distribution across repositories" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvmtamm&layout=compact&hide_border=true&langs_count=8&card_width=495&size_weight=0.5&count_weight=0.5&custom_title=Language%20Distribution&bg_color=0,f8fafc,f1f5f9&title_color=0f172a&text_color=475569" alt="Language distribution across repositories" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=0,f8fafc,f1f5f9&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
