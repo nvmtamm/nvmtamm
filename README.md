@@ -56,11 +56,11 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 **Core Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
   <img src="https://img.shields.io/badge/ASP.NET-1d4ed8?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
   <img src="https://img.shields.io/badge/C%23-334155?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp badge" />
   <img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" alt="Java badge" />
   <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot badge" />
+  <img src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
 </p>
 
 **Frontend Path**
