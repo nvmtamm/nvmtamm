@@ -97,7 +97,7 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nvmtamm&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="GitHub activity stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvmtamm&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8" alt="Top languages chart" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvmtamm&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8&card_width=360&size_weight=0.5&count_weight=0.5&custom_title=Language%20Distribution" alt="Language distribution across repositories" />
 </p>
 
 <p align="center">
