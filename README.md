@@ -37,16 +37,13 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Backend Depth</strong><br /><br />
-      Building a solid engineering foundation with ASP.NET and a backend-first mindset.
+      <img width="100%" src="./assets/focus/backend-depth-card.svg" alt="Backend Depth card" />
     </td>
     <td width="33%" valign="top">
-      <strong>Fullstack Path</strong><br /><br />
-      Preparing for React as the next step toward delivering complete end-to-end products.
+      <img width="100%" src="./assets/focus/fullstack-path-card.svg" alt="Fullstack Path card" />
     </td>
     <td width="33%" valign="top">
-      <strong>Long-Term Growth</strong><br /><br />
-      Exploring DevSecOps to better understand secure, modern, and production-ready workflows.
+      <img width="100%" src="./assets/focus/long-term-growth-card.svg" alt="Long-Term Growth card" />
     </td>
   </tr>
 </table>
@@ -96,8 +93,8 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 ## <img src="./assets/icons/activity.svg" width="18" alt="" /> Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nvmtamm&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="GitHub activity stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvmtamm&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8&card_width=360&size_weight=0.5&count_weight=0.5&custom_title=Language%20Distribution" alt="Language distribution across repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nvmtamm&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github&card_width=495" alt="GitHub activity stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvmtamm&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8&card_width=495&size_weight=0.5&count_weight=0.5&custom_title=Language%20Distribution" alt="Language distribution across repositories" />
 </p>
 
 <p align="center">
