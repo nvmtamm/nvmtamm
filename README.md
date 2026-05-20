@@ -72,6 +72,8 @@ Three areas I am actively sharpening this year, with backend depth as the base a
 
 ## <img src="./assets/icons/stack.svg" width="18" alt="" /> Tech Stack
 
+The tools below are the ones I use most while building toward stronger backend depth, cleaner frontend work, and safer delivery.
+
 **Core Backend**
 
 <p>
@@ -141,7 +143,20 @@ Three areas I am actively sharpening this year, with backend depth as the base a
 
 ## <img src="./assets/icons/connect.svg" width="18" alt="" /> Connect
 
-I am open to internship opportunities and meaningful connections with developers, teams, and people who enjoy building useful things.
+I am open to internship opportunities and conversations with developers, teams, and people who enjoy building useful things.
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Open to work</strong><br /><br />
+      Internship opportunities, collaborative projects, and practical engineering conversations are always welcome.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Preferred topics</strong><br /><br />
+      Backend systems, React progress, DevSecOps, and everything that helps ship better software.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="mailto:nvmtamm@gmail.com">
