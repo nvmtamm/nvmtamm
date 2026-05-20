@@ -32,6 +32,23 @@ I am a second-year student at FPT University Ho Chi Minh City, building a strong
 
 My approach is simple: think clearly, solve real problems, and turn ideas into practical results. I am currently focused on ASP.NET to build depth in backend development, with React as the next step and DevSecOps as a long-term area of growth.
 
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Now</strong><br /><br />
+      Building backend depth with ASP.NET while keeping the fullstack path in view.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Next</strong><br /><br />
+      Moving more consistently into React so the frontend side feels as deliberate as the backend side.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Long Game</strong><br /><br />
+      Learning DevSecOps habits early so delivery, security, and reliability grow together.
+    </td>
+  </tr>
+</table>
+
 ## <img src="./assets/icons/focus.svg" width="18" alt="" /> Current Focus
 
 <table>
