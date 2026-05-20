@@ -51,19 +51,21 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 
 ## <img src="./assets/icons/focus.svg" width="18" alt="" /> Current Focus
 
+Three areas I am actively sharpening this year, with backend depth as the base and fullstack growth as the direction.
+
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Backend Depth</strong><br /><br />
-      Building a solid engineering foundation with ASP.NET and a backend-first mindset.
+      <strong>Backend Craft</strong><br /><br />
+      Building a stronger engineering base with ASP.NET and a backend-first mindset.
     </td>
     <td width="33%" valign="top">
-      <strong>Fullstack Path</strong><br /><br />
-      Preparing for React as the next step toward delivering complete end-to-end products.
+      <strong>Frontend Shift</strong><br /><br />
+      Preparing for React as the next step toward building complete end-to-end products.
     </td>
     <td width="33%" valign="top">
-      <strong>Long-Term Growth</strong><br /><br />
-      Exploring DevSecOps to better understand secure, modern, and production-ready workflows.
+      <strong>Secure Delivery</strong><br /><br />
+      Exploring DevSecOps to better understand secure, modern, production-ready workflows.
     </td>
   </tr>
 </table>
@@ -101,11 +103,11 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
   <tr>
     <td width="50%" valign="top">
       <strong>100% Scholarship</strong><br /><br />
-      Recognized by FPT University for academic performance and consistency.
+      Recognized by FPT University for consistent academic performance.
     </td>
     <td width="50%" valign="top">
       <strong>Career Direction</strong><br /><br />
-      Growing as a backend-first fullstack developer with strong long-term interest in DevSecOps.
+      Growing as a backend-first fullstack developer with a long-term interest in DevSecOps.
     </td>
   </tr>
 </table>
