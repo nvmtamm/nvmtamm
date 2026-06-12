@@ -77,20 +77,20 @@ The tools below are the ones I use most while building toward stronger backend d
 **Core Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET-1d4ed8?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
-  <img src="https://img.shields.io/badge/C%23-334155?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp badge" />
-  <img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" alt="Java badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot badge" />
-  <img src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/ASP.NET-1d4ed8?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
+  <img src="https://img.shields.io/badge/C%23-334155?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp badge" />
+  <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" />
+  <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
 </p>
 
 **Frontend Path**
 
 <p>
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React badge" />
-  <img src="https://img.shields.io/badge/JavaScript-b45309?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/HTML5-c2410c?style=flat-square&logo=html5&logoColor=white" alt="HTML5 badge" />
-  <img src="https://img.shields.io/badge/CSS3-1d4ed8?style=flat-square&logo=css3&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React badge" />
+  <img src="https://img.shields.io/badge/JavaScript-b45309?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/HTML5-c2410c?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-1d4ed8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
 </p>
 
 **Tools and Workflow**
@@ -120,9 +120,9 @@ Building consistently through practical projects, backend exploration, and conti
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=334155&ring=3b82f6&fire=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" />
-    <img width="60%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=334155&ring=f59e0b&fire=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=cbd5e1&ring=f59e0b&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" />
+    <img width="60%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=cbd5e1&ring=f59e0b&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" />
   </picture>
 </p>
 
