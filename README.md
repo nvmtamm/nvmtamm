@@ -114,24 +114,17 @@ The tools below are the ones I use most while building toward stronger backend d
   </tr>
 </table>
 
-## <img src="./assets/icons/activity.svg" width="18" alt="" /> Activity
+## <img src="./assets/icons/activity.svg" width="18" alt="" /> GitHub Activity
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Activity Snapshot</strong><br /><br />
-      Building steadily in public on GitHub, with a focus on consistency, learning, and practical delivery.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Current Streak</strong><br /><br />
-      <img width="100%" height="180" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=0,f8fafc,f1f5f9&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
-    </td>
-    <td width="33%" valign="top">
-      <strong>Contribution Workflow</strong><br /><br />
-      The snake animation below is generated automatically from the <code>output</code> branch by the profile animation workflow.
-    </td>
-  </tr>
-</table>
+Building consistently through practical projects, backend exploration, and continuous learning.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=334155&ring=3b82f6&fire=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" />
+    <img width="60%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=nvmtamm&hide_border=true&background=00000000&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
