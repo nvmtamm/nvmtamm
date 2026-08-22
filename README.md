@@ -72,31 +72,46 @@ Three areas I am actively sharpening this year, with backend depth as the base a
 
 ## <img src="./assets/icons/stack.svg" width="18" alt="" /> Tech Stack
 
-The tools below are the ones I use most while building toward stronger backend depth, cleaner frontend work, and safer delivery.
+The tools I use most while building toward stronger backend depth, cleaner frontend work, and safer delivery.
 
-**Core Backend**
+**Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET-1d4ed8?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
-  <img src="https://img.shields.io/badge/C%23-334155?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp badge" />
-  <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" />
-  <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,c&theme=dark" alt="Languages" />
+  </a>
 </p>
 
-**Frontend Path**
+**Frontend**
 
-<p>
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React badge" />
-  <img src="https://img.shields.io/badge/JavaScript-b45309?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/HTML5-c2410c?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
-  <img src="https://img.shields.io/badge/CSS3-1d4ed8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" alt="Frontend" />
+  </a>
 </p>
 
-**Tools and Workflow**
+**Backend & Frameworks**
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub badge" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi&theme=dark" alt="Backend and Frameworks" />
+  </a>
+</p>
+
+**Database**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database" />
+  </a>
+</p>
+
+**DevOps & Tools**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,vite&theme=dark" alt="DevOps and Tools" />
+  </a>
 </p>
 
 ## <img src="./assets/icons/highlights.svg" width="18" alt="" /> Highlights
@@ -104,12 +119,18 @@ The tools below are the ones I use most while building toward stronger backend d
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>100% Scholarship</strong><br /><br />
-      Recognized by FPT University for consistent academic performance.
+      <strong>🏆 3rd Prize — SEAL Hackathon 2026</strong><br /><br />
+      Won <strong>3rd Prize</strong> at the <strong>SEAL Hackathon 2026</strong> (Track: AI-Driven Smart Operations), organized by <strong>FPT University & FPT Software</strong>.<br /><br />
+      Built <strong>Aegis-IoT</strong> with Team VETERAN — a 5-Layer Autonomous Multi-Agent Closed-Loop IoT Operations system featuring Kalman Filter, Isolation Forest, Statistical Autoencoder, LangGraph 5-Node StateGraph with Gemini 2.5 Flash, Qdrant 1024D Vector DB, and TimescaleDB PG16.<br /><br />
+      <img src="https://img.shields.io/badge/SEAL%20Hackathon%202026-3rd%20Prize%20Winner-f59e0b?style=flat-square" alt="SEAL Hackathon 2026 3rd Prize badge" />
+      <img src="https://img.shields.io/badge/Team-VETERAN-1d4ed8?style=flat-square" alt="Team VETERAN badge" />
+      <img src="https://img.shields.io/badge/Harness%20Score-Level%204-10b981?style=flat-square" alt="Harness Score Level 4 badge" />
     </td>
     <td width="50%" valign="top">
-      <strong>Career Direction</strong><br /><br />
-      Growing as a backend-first fullstack developer with a long-term interest in DevSecOps.
+      <strong>🎓 100% Scholarship</strong><br /><br />
+      Recognized by FPT University for consistent academic performance.<br /><br /><br />
+      <strong>🚀 Career Direction</strong><br /><br />
+      Growing as a backend-first fullstack developer with a long-term interest in DevSecOps and AI-driven autonomous systems.
     </td>
   </tr>
 </table>
