@@ -28,15 +28,15 @@
 
 ## <img src="./assets/icons/about.svg" width="18" alt="" /> About Me
 
-I am a second-year student at FPT University Ho Chi Minh City, building a strong backend foundation while growing toward fullstack development.
+I am a second-year student at FPT University Ho Chi Minh City, building a solid backend foundation and exploring intelligent AI systems while growing toward fullstack engineering.
 
-My approach is simple: think clearly, solve real problems, and turn ideas into practical results. I am currently focused on ASP.NET to build depth in backend development, with React as the next step and DevSecOps as a long-term area of growth.
+My approach is simple: think clearly, solve real problems, and turn ideas into practical results. I am currently focused on ASP.NET for robust backend architecture alongside agentic AI workflows (Advanced RAG, Multi-Agent coordination), with React as the next step and DevSecOps as a long-term foundation for reliable delivery.
 
 <table align="center">
   <tr>
     <td width="33%" valign="top">
       <strong>Now</strong><br /><br />
-      Building backend depth with ASP.NET while keeping the fullstack path in view.
+      Building backend depth with ASP.NET while developing intelligent systems with RAG and Multi-Agent workflows.
     </td>
     <td width="33%" valign="top">
       <strong>Next</strong><br /><br />
@@ -51,19 +51,25 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 
 ## <img src="./assets/icons/focus.svg" width="18" alt="" /> Current Focus
 
-Three areas I am actively sharpening this year, with backend depth as the base and fullstack growth as the direction.
+Key areas I am actively sharpening, with backend depth and AI systems as core pillars, supported by frontend craft and secure delivery.
 
-<table>
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <strong>Backend Craft</strong><br /><br />
-      Building a stronger engineering base with ASP.NET and a backend-first mindset.
+      Building a robust engineering base with ASP.NET and a backend-first mindset for scalable, resilient systems.
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <strong>AI & Agentic Systems</strong><br /><br />
+      Designing Advanced RAG pipelines (hybrid search, vector retrieval) and Multi-Agent orchestration (LangGraph, stateful agentic workflows).
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <strong>Frontend Shift</strong><br /><br />
-      Preparing for React as the next step toward building complete end-to-end products.
+      Preparing for React as the next step toward building intuitive, complete end-to-end products.
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <strong>Secure Delivery</strong><br /><br />
       Exploring DevSecOps to better understand secure, modern, production-ready workflows.
     </td>
