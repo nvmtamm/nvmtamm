@@ -196,13 +196,3 @@ I am open to internship opportunities and conversations with developers, teams, 
     </picture>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://nvmtamm.github.io/nvmtamm/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Interactive_Physics_Playground-Drag_%26_Drop_My_Tech_Stack-2563eb?style=for-the-badge&logo=electron&logoColor=white" alt="Interactive Physics Playground Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>💡 <em>Tip: Click the banner or badge above to experience the real-time physics sandbox — drag & fling icons, repel with cursor, or scroll to tilt gravity!</em></sub>
-</p>
