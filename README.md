@@ -189,5 +189,20 @@ I am open to internship opportunities and conversations with developers, teams, 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:1d4ed8,100:60a5fa" alt="Animated footer banner" />
+  <a href="https://nvmtamm.github.io/nvmtamm/" target="_blank" title="Click to launch interactive 2D physics sandbox!">
+    <picture>
+      <source type="image/webp" srcset="./assets/footer-physics.webp">
+      <img src="./assets/footer-physics.gif" width="100%" alt="Interactive Physics Tech Stack Footer" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nvmtamm.github.io/nvmtamm/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Interactive_Physics_Playground-Drag_%26_Drop_My_Tech_Stack-2563eb?style=for-the-badge&logo=electron&logoColor=white" alt="Interactive Physics Playground Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>💡 <em>Tip: Click the banner or badge above to experience the real-time physics sandbox — drag & fling icons, repel with cursor, or scroll to tilt gravity!</em></sub>
 </p>
