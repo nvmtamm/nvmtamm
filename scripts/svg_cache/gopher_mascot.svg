@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 310">
+            <defs>
+                <radialGradient id="earInner" cx="50%" cy="50%" r="50%">
+                    <stop offset="0%" stop-color="#000000"/>
+                    <stop offset="100%" stop-color="#111111"/>
+                </radialGradient>
+            </defs>
+            <ellipse cx="40" cy="55" rx="30" ry="26" fill="#6ad7e5" stroke="#000000" stroke-width="8"/>
+            <circle cx="42" cy="55" r="14" fill="url(#earInner)"/>
+            <ellipse cx="210" cy="55" rx="30" ry="26" fill="#6ad7e5" stroke="#000000" stroke-width="8"/>
+            <circle cx="208" cy="55" r="14" fill="url(#earInner)"/>
+            <path d="M 45 80 C 45 40, 205 40, 205 80 C 210 130, 215 220, 200 270 C 185 305, 65 305, 50 270 C 35 220, 40 130, 45 80 Z"
+                  fill="#6ad7e5" stroke="#000000" stroke-width="9" stroke-linejoin="round"/>
+            <ellipse cx="22" cy="170" rx="14" ry="12" fill="#e0bb8b" stroke="#000000" stroke-width="6"/>
+            <ellipse cx="228" cy="170" rx="14" ry="12" fill="#e0bb8b" stroke="#000000" stroke-width="6"/>
+            <ellipse cx="70" cy="295" rx="20" ry="14" fill="#e0bb8b" stroke="#000000" stroke-width="6"/>
+            <ellipse cx="180" cy="295" rx="20" ry="14" fill="#e0bb8b" stroke="#000000" stroke-width="6"/>
+            <ellipse cx="82" cy="85" rx="36" ry="40" fill="#ffffff" stroke="#000000" stroke-width="8"/>
+            <circle cx="68" cy="78" r="13" fill="#000000"/>
+            <circle cx="64" cy="74" r="4.5" fill="#ffffff"/>
+            <ellipse cx="160" cy="85" rx="36" ry="40" fill="#ffffff" stroke="#000000" stroke-width="8"/>
+            <circle cx="146" cy="78" r="13" fill="#000000"/>
+            <circle cx="142" cy="74" r="4.5" fill="#ffffff"/>
+            <ellipse cx="120" cy="120" rx="25" ry="18" fill="#e0bb8b" stroke="#000000" stroke-width="6"/>
+            <ellipse cx="120" cy="110" rx="14" ry="10" fill="#000000"/>
+            <path d="M 111 134 L 111 150 C 111 153, 119 153, 119 150 L 119 134 Z" fill="#ffffff" stroke="#000000" stroke-width="4.5"/>
+            <path d="M 121 134 L 121 150 C 121 153, 129 153, 129 150 L 129 134 Z" fill="#ffffff" stroke="#000000" stroke-width="4.5"/>
+            <polygon points="98,168 116,176 98,184" fill="#1c2536" stroke="#000000" stroke-width="3"/>
+            <polygon points="142,168 124,176 142,184" fill="#1c2536" stroke="#000000" stroke-width="3"/>
+            <ellipse cx="120" cy="176" rx="6" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+        </svg>

@@ -92,7 +92,7 @@ The tools I use most while building toward stronger backend depth, cleaner front
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,vite&theme=dark" alt="Frontend" />
   </a>
 </p>
 
@@ -100,7 +100,7 @@ The tools I use most while building toward stronger backend depth, cleaner front
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi&theme=dark" alt="Backend and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet&theme=dark" alt="Backend and Frameworks" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ The tools I use most while building toward stronger backend depth, cleaner front
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,vite&theme=dark" alt="DevOps and Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,figma&theme=dark" alt="DevOps and Tools" />
   </a>
 </p>
 

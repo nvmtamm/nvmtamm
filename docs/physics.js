@@ -22,11 +22,11 @@
   let height = (canvas.height = window.innerHeight);
 
   const STATE = {
-    gravityY: 0.28,
+    gravityY: 0,
     gravityX: 0,
     airResistance: 0.988,
     restitution: 0.72,
-    mode: 'normal', // 'normal', 'zero_g', 'invert', 'assemble'
+    mode: 'banner', // 'banner', 'normal', 'zero_g', 'invert', 'assemble'
     forceMode: 'repel', // 'repel', 'attract'
     cursorRadius: 160,
     cursorStrength: 0.7,
@@ -80,19 +80,21 @@
       this.h = this.rawH * this.scale;
       this.radius = Math.max(this.w, this.h) / 2;
 
-      // Positions
+      // Exact Initial Positions matching authentic original banner
       this.homeX = targetX;
       this.homeY = targetY;
-      this.x = targetX + (Math.random() - 0.5) * 40;
-      this.y = targetY + (Math.random() - 0.5) * 40;
+      this.x = targetX;
+      this.y = targetY;
 
       // Velocities
-      this.vx = (Math.random() - 0.5) * 2;
-      this.vy = (Math.random() - 0.5) * 2;
+      this.vx = 0;
+      this.vy = 0;
 
       // Angular dynamics
       this.angle = 0;
-      this.angularVelocity = (Math.random() - 0.5) * 0.02;
+      this.angularVelocity = 0;
+      this.phaseX = Math.random() * Math.PI * 2;
+      this.phaseY = Math.random() * Math.PI * 2;
 
       this.mass = Math.max(1, (this.radius * this.radius) / 400);
       this.isHovered = false;
@@ -113,14 +115,32 @@
         return;
       }
 
+      // Gentle floating breathing motion in authentic banner formation
+      if (STATE.mode === 'banner') {
+        const time = Date.now() * 0.0018;
+        const targetHoverX = this.homeX + Math.sin(time + this.phaseX) * 1.5;
+        const targetHoverY = this.homeY + Math.cos(time + this.phaseY) * 2.0;
+        const dx = targetHoverX - this.x;
+        const dy = targetHoverY - this.y;
+        this.vx += dx * 0.08;
+        this.vy += dy * 0.08;
+        this.vx *= 0.82;
+        this.vy *= 0.82;
+        this.angle *= 0.92;
+        this.angularVelocity *= 0.9;
+        this.x += this.vx;
+        this.y += this.vy;
+        return;
+      }
+
       // Re-assemble spring force
       if (STATE.mode === 'assemble') {
         const dx = this.homeX - this.x;
         const dy = this.homeY - this.y;
-        this.vx += dx * 0.05;
-        this.vy += dy * 0.05;
-        this.vx *= 0.88;
-        this.vy *= 0.88;
+        this.vx += dx * 0.08;
+        this.vy += dy * 0.08;
+        this.vx *= 0.85;
+        this.vy *= 0.85;
         this.angle *= 0.92;
         this.angularVelocity *= 0.9;
         this.x += this.vx;
@@ -456,19 +476,28 @@
       };
     }
 
-    const bannerAspect = metadata.bannerWidth / metadata.bannerHeight;
+    const iconsList = Array.isArray(metadata) ? metadata : (metadata.icons || []);
+    const bannerWidth = (metadata && metadata.bannerWidth) || 1024;
+    const bannerHeight = (metadata && metadata.bannerHeight) || 204;
+    const bannerAspect = bannerWidth / bannerHeight;
+
     // Fit banner inside viewport with padding
-    const bannerW = Math.min(width * 0.94, 1150);
+    const bannerW = Math.min(width * 0.92, 1024);
     const bannerH = bannerW / bannerAspect;
     const startX = (width - bannerW) / 2;
     const startY = (height - bannerH) / 2;
 
-    const scale = bannerW / metadata.bannerWidth;
+    const scale = bannerW / bannerWidth;
 
-    bodies = metadata.icons.map((item) => {
+    // Sort by zIndex to keep correct visual layering
+    if (iconsList && iconsList.length > 0) {
+      iconsList.sort((a, b) => (a.zIndex || 1) - (b.zIndex || 1));
+    }
+
+    bodies = iconsList.map((item) => {
       const targetX = startX + item.normX * bannerW;
       const targetY = startY + item.normY * bannerH;
-      return new IconBody(item, targetX, targetY, scale * 1.15);
+      return new IconBody(item, targetX, targetY, scale);
     });
 
     console.log(`Initialized ${bodies.length} physics bodies.`);
@@ -494,6 +523,11 @@
       const dx = mouse.x - b.x;
       const dy = mouse.y - b.y;
       if (Math.sqrt(dx * dx + dy * dy) <= b.radius * 1.1) {
+        if (STATE.mode === 'banner') {
+          STATE.mode = 'zero_g';
+          STATE.gravityY = 0;
+          setActiveGravityBtn(btnGravZero);
+        }
         mouse.draggedBody = b;
         b.isDragged = true;
         mouse.dragOffsetX = mouse.x - b.x;
@@ -664,14 +698,8 @@
   });
 
   btnAssemble.addEventListener('click', () => {
-    STATE.mode = 'assemble';
+    STATE.mode = 'banner';
     setActiveGravityBtn(null);
-    setTimeout(() => {
-      if (STATE.mode === 'assemble') {
-        STATE.mode = 'normal';
-        setActiveGravityBtn(btnGravNormal);
-      }
-    }, 2500);
   });
 
   // Start Engine
