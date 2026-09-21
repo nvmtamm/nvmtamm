@@ -466,7 +466,7 @@
         icons: [
           { id: 'docker', name: 'Docker', src: 'assets/icons/docker.png', width: 90, height: 75, normX: 0.32, normY: 0.55 },
           { id: 'react', name: 'React', src: 'assets/icons/react.png', width: 70, height: 70, normX: 0.71, normY: 0.3 },
-          { id: 'gopher_mascot', name: 'Go Gopher', src: 'assets/icons/gopher_mascot.png', width: 85, height: 80, normX: 0.49, normY: 0.8 },
+          { id: 'gopher_mascot', name: 'Go Gopher', src: 'assets/icons/gopher_mascot.png', width: 92, height: 102, normX: 0.4990, normY: 0.7500 },
           { id: 'postgres', name: 'PostgreSQL', src: 'assets/icons/postgres.png', width: 75, height: 70, normX: 0.68, normY: 0.8 },
           { id: 'redis', name: 'Redis', src: 'assets/icons/redis.png', width: 60, height: 60, normX: 0.44, normY: 0.7 },
           { id: 'nginx', name: 'Nginx', src: 'assets/icons/nginx.png', width: 60, height: 70, normX: 0.60, normY: 0.7 },

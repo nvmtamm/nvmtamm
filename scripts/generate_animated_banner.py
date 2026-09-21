@@ -22,7 +22,7 @@ icons_data = meta["icons"] if isinstance(meta, dict) and "icons" in meta else me
 icons_data.sort(key=lambda x: x.get("zIndex", 1))
 
 # Bottom-row items that touch the bottom edge of banner
-GROUNDED_IDS = {"gopher_mascot", "apple", "html5_badge", "postgres", "mysql", "xcode_appstore", "spring_dots", "blue_cube", "wireshark_fin"}
+GROUNDED_IDS = {"gopher_mascot", "apple", "html5_badge", "postgres", "mysql", "xcode_appstore", "spring_dots", "blue_cube", "wireshark_fin", "jenkins_gear"}
 
 # Preload icon sprites
 icon_sprites = []
