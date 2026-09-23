@@ -128,9 +128,9 @@ The tools I use most while building toward stronger backend depth, cleaner front
       <strong>🏆 3rd Prize — SEAL Hackathon 2026</strong><br /><br />
       Won <strong>3rd Prize</strong> at the <strong>SEAL Hackathon 2026</strong> (Track: AI-Driven Smart Operations), organized by <strong>FPT University & FPT Software</strong>.<br /><br />
       Built <strong>Aegis-IoT</strong> with Team VETERAN — a 5-Layer Autonomous Multi-Agent Closed-Loop IoT Operations system featuring Kalman Filter, Isolation Forest, Statistical Autoencoder, LangGraph 5-Node StateGraph with Gemini 2.5 Flash, Qdrant 1024D Vector DB, and TimescaleDB PG16.<br /><br />
-      <img src="https://img.shields.io/badge/SEAL%20Hackathon%202026-3rd%20Prize%20Winner-f59e0b?style=flat-square" alt="SEAL Hackathon 2026 3rd Prize badge" />
-      <img src="https://img.shields.io/badge/Team-VETERAN-1d4ed8?style=flat-square" alt="Team VETERAN badge" />
-      <img src="https://img.shields.io/badge/Harness%20Score-Level%204-10b981?style=flat-square" alt="Harness Score Level 4 badge" />
+      <img src="https://img.shields.io/badge/SEAL%20Hackathon%202026-3rd%20Prize%20Winner-f59e0b?style=flat" alt="SEAL Hackathon 2026 3rd Prize badge" />
+      <img src="https://img.shields.io/badge/Team-VETERAN-1d4ed8?style=flat" alt="Team VETERAN badge" />
+      <img src="https://img.shields.io/badge/Harness%20Score-Level%204-10b981?style=flat" alt="Harness Score Level 4 badge" />
     </td>
     <td width="50%" valign="top">
       <strong>🎓 100% Scholarship</strong><br /><br />
