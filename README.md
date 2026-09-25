@@ -104,12 +104,10 @@ The tools I use most while building toward stronger backend depth, cleaner front
   </a>
 </p>
 
-**Database**
+**Database - Vector Database**
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database" />
-  </a>
+  <img src="./assets/icons/database.svg" alt="Database - Vector Database" />
 </p>
 
 **DevOps & Tools**
