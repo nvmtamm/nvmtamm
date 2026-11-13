@@ -123,6 +123,7 @@ The tools I use most while building toward stronger backend depth, cleaner front
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="./assets/highlights/seal-hackathon-2026.jpg" width="100%" alt="3rd Prize SEAL Hackathon 2026" /><br /><br />
       <strong>🏆 3rd Prize — SEAL Hackathon 2026</strong><br /><br />
       Won <strong>3rd Prize</strong> at the <strong>SEAL Hackathon 2026</strong> (Track: AI-Driven Smart Operations), organized by <strong>FPT University & FPT Software</strong>.<br /><br />
       Built <strong>Aegis-IoT</strong> with Team VETERAN — a 5-Layer Autonomous Multi-Agent Closed-Loop IoT Operations system featuring Kalman Filter, Isolation Forest, Statistical Autoencoder, LangGraph 5-Node StateGraph with Gemini 2.5 Flash, Qdrant 1024D Vector DB, and TimescaleDB PG16.<br /><br />
@@ -131,8 +132,17 @@ The tools I use most while building toward stronger backend depth, cleaner front
       <img src="https://img.shields.io/badge/Harness%20Score-Level%204-10b981?style=flat" alt="Harness Score Level 4 badge" />
     </td>
     <td width="50%" valign="top">
-      <strong>🎓 100% Scholarship</strong><br /><br />
-      Recognized by FPT University for consistent academic performance.<br /><br /><br />
+      <img src="./assets/highlights/fpt-scholarship-100.jpg" width="100%" alt="100% Scholarship FPT University" /><br /><br />
+      <strong>🎓 100% Scholarship — FPT University</strong><br /><br />
+      Awarded <strong>100% Full Academic Scholarship</strong> (Học bổng Học đường) for the complete 4-year undergraduate curriculum at <strong>FPT University Ho Chi Minh City</strong>.<br /><br />
+      Honored for outstanding academic performance, sustained engineering rigor, and continuous contributions in software development and intelligent agent architectures.<br /><br />
+      <img src="https://img.shields.io/badge/FPT%20University-100%25%20Scholarship-f59e0b?style=flat" alt="100% Scholarship badge" />
+      <img src="https://img.shields.io/badge/Honor-Academic%20Excellence-1d4ed8?style=flat" alt="Academic Excellence badge" />
+      <img src="https://img.shields.io/badge/Cohort-Class%20of%202024--2028-10b981?style=flat" alt="Class of 2024-2028 badge" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <strong>🚀 Career Direction</strong><br /><br />
       Growing as a backend-first fullstack developer with a long-term interest in DevSecOps and AI-driven autonomous systems.
     </td>
